@@ -1,0 +1,89 @@
+/* Color System - Custom Girly Theme for Ladies Products */
+
+:root {
+  /* Primary Palette Colors */
+  --color-cream: #F8F4EC;          /* Light Cream - Backgrounds */
+  --color-soft-pink: #FF8FB7;      /* Soft Pink - Primary */
+  --color-fuchsia: #E83C91;        /* Vibrant Fuchsia - Accent */
+  --color-plum: #43334C;           /* Dark Plum - Text & Dark Accents */
+  
+  /* Primary Colors */
+  --primary-pink: var(--color-soft-pink);
+  --primary-rose: var(--color-fuchsia);
+  --primary-coral: var(--color-soft-pink);
+  
+  /* Secondary Colors - Derived from palette */
+  --secondary-lavender: var(--color-cream);
+  --secondary-peach: #FFB8D4;      /* Lighter version of soft pink */
+  --secondary-mauve: #C96A9F;      /* Mid-tone between fuchsia and plum */
+  
+  /* Accent Colors */
+  --accent-gold: #FFD700;          /* Gold for ratings */
+  --accent-pearl: var(--color-cream);
+  --accent-blush: #FFF0F8;         /* Very light pink tint */
+  
+  /* Neutral Colors */
+  --neutral-white: #FFFFFF;
+  --neutral-light: var(--color-cream);
+  --neutral-gray: #F5F5F5;
+  --neutral-dark: var(--color-plum);
+  --neutral-text: #5A4A5C;         /* Slightly lighter plum for text */
+  --neutral-light-text: #7A6A7C;   /* Even lighter for secondary text */
+  
+  /* Background Colors */
+  --bg-primary: var(--neutral-white);     /* White as base background */
+  --bg-secondary: var(--color-cream);      /* Light cream for sections */
+  --bg-accent: var(--accent-blush);
+  --bg-card: var(--neutral-white);        /* White for product cards */
+  
+  /* Text Colors */
+  --text-primary: var(--color-plum);     /* Dark plum text on light background */
+  --text-secondary: var(--neutral-text);  /* Neutral text for secondary */
+  --text-light: var(--neutral-light-text); /* Light text for muted content */
+  --text-on-pink: var(--color-plum);
+  --text-on-light: var(--color-plum);     /* Dark text on light backgrounds */
+  
+  /* Button Colors */
+  --btn-primary: var(--color-fuchsia);
+  --btn-primary-hover: var(--color-soft-pink);
+  --btn-secondary: var(--color-soft-pink);
+  --btn-secondary-hover: var(--secondary-mauve);
+  
+  /* Border Colors */
+  --border-light: rgba(255, 255, 255, 0.1);  /* Subtle white border on dark */
+  --border-medium: var(--color-soft-pink);
+  --border-dark: var(--color-fuchsia);
+  --border-on-light: #F0E8E0;                /* Light cream border on light bg */
+  
+  /* Shadow Colors - Using palette colors with opacity */
+  --shadow-light: rgba(255, 143, 183, 0.1);      /* Soft pink shadow */
+  --shadow-medium: rgba(232, 60, 145, 0.2);      /* Fuchsia shadow */
+  --shadow-dark: rgba(67, 51, 76, 0.15);         /* Plum shadow */
+  
+  /* Status Colors */
+  --success: #90EE90;              /* Light Green */
+  --warning: #FFB347;              /* Light Orange */
+  --error: #FF6B6B;                /* Soft Red */
+  
+  /* Gradient Colors - Using palette */
+  --gradient-primary: linear-gradient(135deg, var(--color-soft-pink) 0%, var(--color-fuchsia) 100%);
+  --gradient-secondary: linear-gradient(135deg, var(--color-cream) 0%, var(--secondary-peach) 100%);
+  --gradient-accent: linear-gradient(135deg, var(--accent-blush) 0%, var(--color-soft-pink) 100%);
+  --gradient-hero: linear-gradient(135deg, var(--color-cream) 0%, var(--accent-blush) 100%);
+}
+
+/* Utility Classes for Colors */
+.bg-primary-pink { background-color: var(--color-soft-pink); }
+.bg-primary-rose { background-color: var(--color-fuchsia); }
+.bg-secondary-lavender { background-color: var(--color-cream); }
+.bg-accent-blush { background-color: var(--accent-blush); }
+.bg-cream { background-color: var(--color-cream); }
+.bg-plum { background-color: var(--color-plum); }
+
+.text-primary-rose { color: var(--color-fuchsia); }
+.text-primary-coral { color: var(--color-soft-pink); }
+.text-neutral-dark { color: var(--color-plum); }
+.text-plum { color: var(--color-plum); }
+
+.border-pink { border-color: var(--color-soft-pink); }
+.border-fuchsia { border-color: var(--color-fuchsia); }
