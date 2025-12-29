@@ -239,11 +239,13 @@
       "reviews": 289
     },
     {
+  "products": [
+    {
       "id": "pink-suede-heeled-shoes",
       "title": "Stylish Pink Suede Heeled Shoes",
       "description": "Fashionable pink suede heeled shoes with comfortable block heel. Perfect for both casual and formal occasions. Available in multiple sizes.",
       "shortDescription": "Fashionable pink suede heeled shoes with comfortable block heel",
-      "image": "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?w=800&h=800&fit=crop",
+      "image": "https://images.unsplash.com/photo-1543163521-bf539c55dd2?w=800&h=800&fit=crop",
       "price": 54.99,
       "originalPrice": 84.99,
       "affiliateLink": "https://amazon.com/dp/example16",
@@ -251,7 +253,8 @@
       "tags": ["shoes", "heels", "pink", "suede"],
       "rating": 4.5,
       "reviews": 223
-    },
+    }
+  ],
   "categories": [
     "all",
     "jewelry",
@@ -261,4 +264,3 @@
     "home"
   ]
 }
-
