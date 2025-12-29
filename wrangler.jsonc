@@ -1,8 +1,7 @@
 {
-  "name": "affiliate-marketing",
-  "compatibility_date": "2025-12-01",
+  "name": "abdulraheem2108-alt",
+  "compatibility_date": "2025-12-29",
   "assets": {
-    "directory": "./",
-    "binding": "ASSETS"
+    "directory": "./" 
   }
 }
