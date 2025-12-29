@@ -17,29 +17,37 @@
   {
       "id": "Beauty LED mask",
       "title": "Beauty LED mask",
-      "description": "Red & Infrared Light Therapy
-This LED face mask combines visible red light with upgraded near-infrared light to target fine lines, wrinkles, and acne by treating both the skin’s surface and deeper layers.
-
-LED Phototherapy for All Skin Types
-Multiple light wavelengths allow customized skincare treatments based on individual needs, making the mask gentle, effective, and suitable for all skin types.
-
-Comfortable Contour Design
-The contoured shape follows the natural curves of the face, ensuring even light coverage while reducing pressure points for a comfortable, irritation-free experience.
-
-Portable & Hands-Free Use
-Lightweight and hands-free, this mask allows easy multitasking—use it while reading, relaxing, or working without interrupting your routine.
-
-Worry-Free Purchase
-Includes a 30-day free return policy and 1-year warranty, making it a reliable choice and a thoughtful gift for anyone focused on healthier, youthful-looking skin",
+      "description": [
+  {
+    "heading": "Red & Infrared Light Therapy",
+    "text": "This LED face mask combines visible red light with upgraded near-infrared light to target fine lines, wrinkles, and acne by treating both the skin’s surface and deeper layers."
+  },
+  {
+    "heading": "LED Phototherapy for All Skin Types",
+    "text": "Multiple light wavelengths allow customized skincare treatments based on individual needs, making the mask gentle, effective, and suitable for all skin types."
+  },
+  {
+    "heading": "Comfortable Contour Design",
+    "text": "The contoured shape follows the natural curves of the face, ensuring even light coverage while reducing pressure points for a comfortable, irritation-free experience."
+  },
+  {
+    "heading": "Portable & Hands-Free Use",
+    "text": "Lightweight and hands-free, this mask allows easy multitasking—use it while reading, relaxing, or working without interrupting your routine."
+  },
+  {
+    "heading": "Worry-Free Purchase",
+    "text": "Includes a 30-day free return policy and 1-year warranty, making it a reliable choice and a thoughtful gift for anyone focused on healthier, youthful-looking skin."
+  }
+]",
       "shortDescription": "Red Light & Infrared Light Therapy Face Mask for Wrinkles",
         "image": "https://m.media-amazon.com/images/I/71zyBpJ5muL._SL1500_.jpg",
-        "price": 2798,
-      "originalPrice": 49.99,
+        "price": 169.99,
+      "originalPrice": 175.99,
       "affiliateLink": "https://amazon.com/dp/example1",
-      "category": "jewelry",
-      "tags": ["washing machine", "haier", "10kg", "capacity"],
-      "rating": 4.5,
-      "reviews": 234
+      "category": "beauty",
+      "tags": ["LED face mask", "red light therapy", "infrared therapy", "anti aging", "acne treatment"],
+      "rating": 4.7,
+      "reviews": 203
     },
     {
       "id": "haier-washing-machine",
