@@ -43,18 +43,18 @@
       "reviews": 203
     },
     {
-      "id": "Beauty-LED-mask",
-      "title": "Beauty LED mask",
-      "description": "Red Light & Infrared Light Therapy Face Mask for Wrinkles",
-      "shortDescription": "Red Light & Infrared Light Therapy Face Mask",
-      "image": "https://m.media-amazon.com/images/I/71zyBpJ5muL._SL1500_.jpg",
-      "price": 169.99,
-      "originalPrice": 175.99,
-      "affiliateLink": "https://www.amazon.com/Beauty-LED-mask-Multi-wavelength-Rechargeable/dp/B0CSYZ367S/",
+      "id": "Makeup Organizer",
+      "title": "Rotating Makeup Organizer for Vanity",
+      "description": "360 Spinning Skincare Organizers with Adjustable Trays",
+      "shortDescription": "360 Spinning Skincare Organizers with Adjustable Trays",
+      "image": "https://m.media-amazon.com/images/I/617y0qJpvYL._AC_SL1500_.jpg",
+      "price": 15.99,
+      "originalPrice": 17.99,
+      "affiliateLink": "https://www.amazon.com/Rotating-Organizer-Adjustable-Multi-Function-Countertop/dp/B0CTJBVXYD/",
       "category": "beauty",
-      "tags": ["LED face mask", "red light therapy", "anti aging"],
-      "rating": 4.7,
-      "reviews": 203
+      "tags": ["makeup organizer", "cosmetic storage", "beauty organizer"],
+      "rating": 4.4,
+      "reviews": 5102
     }, 
     {
       "id": "TYMO Automatic Rotating Curling Iron",
