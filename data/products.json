@@ -29,6 +29,20 @@
       "reviews": 203
     },
     {
+      "id": "Beauty-LED-mask",
+      "title": "Beauty LED mask",
+      "description": "Red Light & Infrared Light Therapy Face Mask for Wrinkles",
+      "shortDescription": "Red Light & Infrared Light Therapy Face Mask",
+      "image": "https://m.media-amazon.com/images/I/71zyBpJ5muL._SL1500_.jpg",
+      "price": 169.99,
+      "originalPrice": 175.99,
+      "affiliateLink": "https://www.amazon.com/Beauty-LED-mask-Multi-wavelength-Rechargeable/dp/B0CSYZ367S/",
+      "category": "beauty",
+      "tags": ["LED face mask", "red light therapy", "anti aging"],
+      "rating": 4.7,
+      "reviews": 203
+    },
+    {
       "id": "TYMO Automatic Rotating Curling Iron",
       "title": "TYMO Automatic Rotating Curling Iron",
       "description": "Portable Hair Curler, 500 Million Ionic, Dual Voltage & Lightweight for Travel, Ceramic Coating, 1 Inch, Pink",
