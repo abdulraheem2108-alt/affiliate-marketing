@@ -43,7 +43,7 @@
       "reviews": 203
     },
     {
-      "id": "Makeup Organizer",
+      "id": "Makeup-Organizer",
       "title": "Rotating Makeup Organizer for Vanity",
       "description": "360 Spinning Skincare Organizers with Adjustable Trays",
       "shortDescription": "360 Spinning Skincare Organizers with Adjustable Trays",
@@ -57,7 +57,7 @@
       "reviews": 5102
     }, 
     {
-      "id": "Sky High Washable Mascara Makeup",
+      "id": "sky-high-washable-mascara-makeup",
       "title": "Sky High Washable Mascara Makeup",
       "description": "Washable mascara that delivers long, voluminous lashes with easy removal.",
       "shortDescription": "Washable mascara for long, lightweight lashes",
@@ -68,7 +68,7 @@
       "category": "beauty",
       "tags": ["washable mascara", "mascara makeup", "eye makeup", "easy remove mascara", "women beauty"],
       "rating": 4.5,
-      "reviews": 173,404
+      "reviews": 173404
     },     
     {
       "id": "TYMO Automatic Rotating Curling Iron",
