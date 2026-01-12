@@ -181,7 +181,21 @@
       "tags": ["wonderskin lipliner, brown lip liner, contour lip liner, waterproof lip liner, long lasting lip liner, transfer proof lip liner, sharpenable lip liner, lip makeup, glam makeup, women beauty"],
       "rating": 4.0,
       "reviews": 2643
-    },    
+    },
+    {
+      "id": "cerave-moisturizing-cream",
+      "title": "CeraVe Moisturizing Cream for Dry Skin Face and Body",
+      "description": "Keep your skin hydrated and protected with CeraVe Moisturizing Cream. Formulated with hyaluronic acid and ceramides, this fragrance-free, non-comedogenic cream restores the skin barrier while providing long-lasting moisture for both face and body.",
+      "shortDescription": "Daily moisturizing cream for dry, sensitive, and healthy skin.",
+      "image": "https://m.media-amazon.com/images/I/61EidjXUBrL._SL1000_.jpg",
+      "price": 18.96,
+      "originalPrice": 20.00,
+      "affiliateLink": "https://www.amazon.com/CeraVe-Moisturizing-Cream-Daily-Moisturizer/dp/B00TTD9BRC/?tag=beautfindshub-20",
+      "category": "beauty",
+      "tags": ["cerave moisturizing cream, dry skin moisturizer, face and body cream, hydrating skincare, ceramides cream, fragrance free lotion, daily moisturizer, skincare essentials, smooth skin, women beauty"],
+      "rating": 4.7,
+      "reviews": 140227
+    },        
     {
       "id": "revlon-colorstay-full-cover-liquid-foundation",
       "title": "Revlon ColorStay Full Cover Longwear Matte Liquid Foundation",
